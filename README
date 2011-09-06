@@ -1,0 +1,4 @@
+OMG OBJ is an OBJ mesh reader in JavaScript.  It was written for use in Plask
+(www.plask.org), but is applicable elsewhere.
+
+(c) Dean McNamee <dean@gmail.com>, 2011.
